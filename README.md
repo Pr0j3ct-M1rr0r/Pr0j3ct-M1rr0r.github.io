@@ -1,1 +1,5 @@
-# Pr0j3ct-M1rr0r.github.io
+# FashionTinder
+A website that makes fashion easy and accessible. 
+
+
+uses AI to let you try clothes on virtually, and you can swipe right or left if you like them or not
