@@ -1,4 +1,4 @@
-# FashionTinder
+# Project Mirror
 A website that makes fashion easy and accessible. 
 
 
